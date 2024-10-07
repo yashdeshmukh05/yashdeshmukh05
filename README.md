@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java And React **
 
-- 📫 How to reach me **pratikbagade13@gmail.com**
+- 📫 How to reach me **yashd7200@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashdeshmukh05&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashdeshmukh05&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeshmukh&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeshmukh05&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashdeshmukh05&icon=0&color=0)](https://visitcount.itsvg.in)
